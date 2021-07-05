@@ -1,3 +1,9 @@
+# Siguiendo el video de este curso:
+https://www.youtube.com/watch?v=Dorf8i6lCuk
+
+código original:
+https://github.com/academind/react-complete-guide-code/tree/zz-reactjs-summary/code
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
